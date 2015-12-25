@@ -1,7 +1,7 @@
 Package.describe({
     name: 'risul:autocomplete',
     summary: 'Meteor package for At.js - Add Github like mentions autocomplete to your application',
-    version: '1.4.0',
+    version: '1.4.1',
     git: 'https://github.com/risul/meteor-autocomplete'
 });
 
